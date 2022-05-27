@@ -153,11 +153,13 @@
   width: 930px; 
   height: 190px; 
   background-color: gold;
+
 } 
 .blue5 {
   width: 930px; 
   height: 100px; 
-  background-color: blue; 
+  background-color: blue;
+  float: left; 
 } 
 /* Activity 6 styles */ 
 .content6 {
